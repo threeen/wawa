@@ -1,0 +1,1 @@
+<?php return 'INSERT INTO   `ay_tixian` ()VALUES () @@@@@ INSERT INTO   `ay_tixian` ()VALUES ();@;';

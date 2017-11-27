@@ -1,0 +1,26 @@
+<?php return array (
+  0 => 'id,name,uid,shid,adminid,cpid,zcid,type,off,orderid,tuijian,paixu,guanjian,miaoshu,atime,xtime,neirong,kuozan,renqi,pingfen',
+  1 => 
+  array (
+    'id' => 'auto_increment',
+    'name' => 'name_',
+    'uid' => 'uid_0',
+    'shid' => 'shid_0',
+    'adminid' => 'adminid_0',
+    'cpid' => 'cpid_0',
+    'zcid' => 'zcid_0',
+    'type' => 'type_0',
+    'off' => 'off_0',
+    'orderid' => 'orderid_',
+    'tuijian' => 'tuijian_0',
+    'paixu' => 'paixu_0',
+    'guanjian' => 'guanjian_',
+    'miaoshu' => 'miaoshu_',
+    'atime' => 'atime_0',
+    'xtime' => 'xtime_0',
+    'neirong' => 'neirong_',
+    'kuozan' => 'kuozan_',
+    'renqi' => 'renqi_0',
+    'pingfen' => 'pingfen_0.00',
+  ),
+);
