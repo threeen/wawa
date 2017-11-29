@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb99f20-667e-4459-b4b1-e62bc281f2b9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/admin.php" afterPath="$PROJECT_DIR$/project/ong/moudl/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/temp/uid/156.php" afterPath="$PROJECT_DIR$/project/ong/temp/uid/156.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/static/js/web.min.js" afterPath="$PROJECT_DIR$/project/static/js/web.min.js" />
     </list>
     <ignored path="wawa_pro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,202 +26,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ajax.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/ajax.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/index.php">
+        <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ajax.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/ajax.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="109" column="7" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appota.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ong.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/ong/ong.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="219" column="9" selection-start-line="219" selection-start-column="9" selection-end-line="219" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ht_cn.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/tpl/lang/ht_cn.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="94" column="30" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project/ong/moudl/admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60278744">
-              <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="funciton.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/beifen/ong/plus/funciton.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="165" column="53" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="53" />
+            <state vertical-scroll-proportion="-6.2615385">
+              <caret line="295" column="65" selection-start-line="295" selection-start-column="65" selection-end-line="295" selection-end-column="66" />
               <folding>
-                <marker date="1511944486870" expanded="true" signature="15594:15741" placeholder="..." />
-                <marker date="1511944486870" expanded="true" signature="16830:18624" placeholder="..." />
-                <marker date="1511944486870" expanded="true" signature="16860:18597" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="16940:18263" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944486870" expanded="true" signature="17344:18037" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="17433:17725" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="17729:17975" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="18068:18233" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="18346:18464" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="19809:20723" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="19854:20155" placeholder="{&quot;allowFileManager&quot;: false...}" />
-                <marker date="1511944486870" expanded="true" signature="20221:20723" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="20286:20723" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="20343:20723" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="20401:20723" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="20535:20723" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="20595:20723" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="22779:23225" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="22850:23225" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944486870" expanded="true" signature="23131:23225" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="25610:27409" placeholder="..." />
-                <marker date="1511944486870" expanded="true" signature="25640:27382" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="25721:27046" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944486870" expanded="true" signature="26126:26820" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="26215:26508" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="26512:26758" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="26851:27016" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="27130:27249" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="28085:28096" placeholder="..." />
-                <marker date="1511944486870" expanded="true" signature="28206:28218" placeholder="..." />
-                <marker date="1511944486870" expanded="true" signature="30365:31115" placeholder="..." />
-                <marker date="1511944486870" expanded="true" signature="30457:31084" placeholder="{...}" />
-                <marker date="1511944486870" expanded="true" signature="30521:31080" placeholder="{&quot;resizeType&quot;: 1...}" />
-                <marker date="1511944486870" expanded="false" signature="31167:31202" placeholder="..." />
-                <marker date="1511944486870" expanded="true" signature="71918:71961" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="72229:72272" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="73013:73056" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="73862:73905" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="74529:74572" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="75227:75270" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="76107:76150" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="76973:77016" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="77666:77709" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="78389:78432" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="79240:79283" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="80075:80118" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="80725:80768" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="81390:81433" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944486870" expanded="true" signature="82072:82115" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511754583482" expanded="true" signature="25729:25762" placeholder="..." />
+                <marker date="1511754583482" expanded="true" signature="26345:26352" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="funciton.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/ong/plus/funciton.php">
+      <file leaf-file-name="web.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/static/js/web.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-              <folding>
-                <marker date="1511944169953" expanded="true" signature="15594:15741" placeholder="..." />
-                <marker date="1511944169953" expanded="true" signature="16830:18624" placeholder="..." />
-                <marker date="1511944169953" expanded="true" signature="16860:18597" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="16940:18263" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944169953" expanded="true" signature="17344:18037" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="17433:17725" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="17729:17975" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="18068:18233" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="18346:18464" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="19809:20723" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="19854:20155" placeholder="{&quot;allowFileManager&quot;: false...}" />
-                <marker date="1511944169953" expanded="true" signature="20221:20723" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="20286:20723" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="20343:20723" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="20401:20723" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="20535:20723" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="20595:20723" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="22779:23225" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="22850:23225" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944169953" expanded="true" signature="23131:23225" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="25610:27409" placeholder="..." />
-                <marker date="1511944169953" expanded="true" signature="25640:27382" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="25721:27046" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944169953" expanded="true" signature="26126:26820" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="26215:26508" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="26512:26758" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="26851:27016" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="27130:27249" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="28085:28096" placeholder="..." />
-                <marker date="1511944169953" expanded="true" signature="28206:28218" placeholder="..." />
-                <marker date="1511944169953" expanded="true" signature="30365:31115" placeholder="..." />
-                <marker date="1511944169953" expanded="true" signature="30457:31084" placeholder="{...}" />
-                <marker date="1511944169953" expanded="true" signature="30521:31080" placeholder="{&quot;resizeType&quot;: 1...}" />
-                <marker date="1511944169953" expanded="false" signature="31167:31202" placeholder="..." />
-                <marker date="1511944169953" expanded="true" signature="71918:71961" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="72229:72272" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="73013:73056" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="73862:73905" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="74529:74572" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="75227:75270" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="76107:76150" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="76973:77016" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="77666:77709" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="78389:78432" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="79240:79283" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="80075:80118" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="80725:80768" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="81390:81433" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944169953" expanded="true" signature="82072:82115" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-              </folding>
+            <state vertical-scroll-proportion="0.4803695">
+              <caret line="209" column="116" selection-start-line="209" selection-start-column="116" selection-end-line="209" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="move.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/static/js/move.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.6">
+              <caret line="76" column="22" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,14 +72,12 @@
         <option value="$PROJECT_DIR$/project/tpl/home/shop/login.php" />
         <option value="$PROJECT_DIR$/project/tpl/lang/ht_cn.php" />
         <option value="$PROJECT_DIR$/project/tpl/admin/admin/action/admin_test.php" />
-        <option value="$PROJECT_DIR$/project/static/js/web.min.js" />
         <option value="$PROJECT_DIR$/project/ong/mode/shezhi.php" />
         <option value="$PROJECT_DIR$/project/tpl/admin/admin/action/user.php" />
         <option value="$PROJECT_DIR$/project/tpl/home/shop/jilu.php" />
         <option value="$PROJECT_DIR$/project/ong/ufunction.php" />
         <option value="$PROJECT_DIR$/project/tpl/home/shop/ajax.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/pay.php" />
-        <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
         <option value="$PROJECT_DIR$/project/appotapay/appota.php" />
         <option value="$PROJECT_DIR$/project/tpl/home/shop/tixian.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/ajax.php" />
@@ -257,6 +90,8 @@
         <option value="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" />
         <option value="$PROJECT_DIR$/project/tpl/admin/admin/login.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/admin.php" />
+        <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
+        <option value="$PROJECT_DIR$/project/static/js/web.min.js" />
       </list>
     </option>
   </component>
@@ -319,90 +154,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wawa_pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -633,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/static/js/move.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3325688">
-          <caret line="62" column="21" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/ong/mode/acc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -658,13 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33295193">
           <caret line="2" column="137" selection-start-line="2" selection-start-column="137" selection-end-line="2" selection-end-column="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/static/js/web.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="160" column="60" selection-start-line="160" selection-start-column="60" selection-end-line="160" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -730,16 +467,6 @@
           <caret line="212" column="41" selection-start-line="212" selection-start-column="41" selection-end-line="212" selection-end-column="41" />
           <folding>
             <marker date="1511768146124" expanded="true" signature="5558:5565" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="359" column="40" selection-start-line="359" selection-start-column="40" selection-end-line="359" selection-end-column="40" />
-          <folding>
-            <marker date="1511754583482" expanded="true" signature="26345:26352" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -853,13 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0337349">
           <caret line="66" column="11" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -878,26 +598,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/ong/ong.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="219" column="9" selection-start-line="219" selection-start-column="9" selection-end-line="219" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/tpl/lang/ht_cn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="94" column="30" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -957,22 +661,6 @@
             <marker date="1511944169953" expanded="true" signature="81390:81433" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
             <marker date="1511944169953" expanded="true" signature="82072:82115" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="109" column="7" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1036,8 +724,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/ong/moudl/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60278744">
-          <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+        <state vertical-scroll-proportion="-58.657143">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.314285">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.971429">
+          <caret line="109" column="7" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/ong/ong.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5470383">
+          <caret line="219" column="9" selection-start-line="219" selection-start-column="9" selection-end-line="219" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030197445">
+          <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030197445">
+          <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/static/js/move.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.6">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2615385">
+          <caret line="295" column="65" selection-start-line="295" selection-start-column="65" selection-end-line="295" selection-end-column="66" />
+          <folding>
+            <marker date="1511754583482" expanded="true" signature="25729:25762" placeholder="..." />
+            <marker date="1511754583482" expanded="true" signature="26345:26352" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/static/js/web.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4803695">
+          <caret line="209" column="116" selection-start-line="209" selection-start-column="116" selection-end-line="209" selection-end-column="116" />
           <folding />
         </state>
       </provider>
