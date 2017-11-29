@@ -59,7 +59,7 @@ function msgbox ( $mess='' , $location='yes'){
            $locations = "window.history.back();";
         else 
            $locations = " window.location.href='".$location."';";
-
+           echo $locations;exit;
         if($mess == '')
            echo  '<script>'. $locations.'</script>';
         else

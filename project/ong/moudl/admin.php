@@ -30,13 +30,12 @@ if( isset($_GET['vocde'])){
 $LANG = include HTLANG;
 
 if( !isset( $_SESSION['houid'])){
-
     if( isset($_POST['action'])){
      
      
         if( $_POST['action'] == 'login'){
 
-            //if( !yzcode( 'code' , $CONN['sicode'] , 160 )  ) msgbox( $LANG['code'].$LANG['cuowu'],'?');
+            if( !yzcode( 'code' , $CONN['sicode'] , 160 )  ) msgbox( $LANG['code'].$LANG['cuowu'],'?');
 
             if( !yztoken('token') ) msgbox( $LANG['token'].$LANG['cuowu'],'?');
 
