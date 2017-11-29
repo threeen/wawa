@@ -6,7 +6,7 @@ $PAYKEY = $PAYAC['paykey'] ; //支付的key
 $PAYZH  = $PAYAC['zhanghao'] ; //支付的帐号 需要用到的填写
 
 //$PAYHT  = 'http://107.150.101.56:8078/appotapay/payment.php'; //支付通信地址
-$PAYHT  = 'http://139.199.88.69/wawa/project/appotapay/payment.php';
+$PAYHT  = 'http://107.150.99.66/wawa/project/appotapay/payment.php';
 // $TYID   = $PAYAC['beizhu']; //支付方式
 
 // $PAYYB  = WZHOST.'pay/yb'.anquanqu( $PAYAC ['payfile'] ).'.php'; //异步连接地址
