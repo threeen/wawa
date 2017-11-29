@@ -83,9 +83,10 @@ if( !isset( $_SESSION['houid'])){
 
     $IP = ip();
     $USER = adminuid($_SESSION['houid']);
+    print_r($USER);echo "<br>";
 
     if( isset( $_GET['action'])  && $_GET['action'] == 'quite'){
-        echo "1";exit;
+
         adminlog($USER['id'],1);
         session_destroy();
         msgbox( $LANG['tuichu']. $LANG['chenggong'], '?');
@@ -94,8 +95,8 @@ if( !isset( $_SESSION['houid'])){
 
     $DLIP = $Mem -> g( 'adminlogin/'. $USER['id'] );
 
-    if( $DLIP !=  $IP && $USER['yanzhengip'] == 1 ){
-        echo "2";exit;
+    if( $DLIP !=  $IP && $USER['yanzhengip'] != 1 ){
+
            adminlog($USER['id'],2,serialize($DLIP));
            session_destroy();
            msgbox($LANG['tuichu'].$LANG['chenggong'],'?');
