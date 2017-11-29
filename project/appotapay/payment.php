@@ -28,7 +28,7 @@ if ($result['success'])
 {
     //成功
     //$PAYHT  = 'http://107.150.101.56:8078/pay/ybmyjhpay.php'; //支付通信地址
-    $PAYHT  = 'http://107.150.99.66/wawa/project/ong/moudl/pay/ybmyjhpay.php';
+    $PAYHT  = 'http://107.150.99.66:88/project/ong/moudl/pay/ybmyjhpay.php';
     $DATA = array (
       'order_sn' => $order_sn,//商户订单号
       'user_id' => $user_id,//商户会员ID
@@ -44,7 +44,7 @@ if ($result['success'])
 
     if ($re == 'ok')
     {
-        $index = 'http://107.150.99.66/wawa/project/index.php';
+        $index = 'http://107.150.99.66:88/project/index.php';
 
           $sHtml = "<form id='index2' name='index2' action='".$index."' method='post'>";
 
