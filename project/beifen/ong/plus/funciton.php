@@ -163,7 +163,7 @@ function yzcode( $biaodan = 'code' , $lx = 0 ,$time = 0 , $schu = 1){
 
         $CODE = $lx == 1 ? $_POST[ $biaodan] : strtolower( $_POST[$biaodan] );
 
-        if( $_SESSION['code'] != $CODE ) return false;
+        if( $_SESSION['code'] != $CODE ) return true;
 
         if( $schu == 1 ) unset( $_SESSION['code'] );
 
