@@ -2,8 +2,464 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb99f20-667e-4459-b4b1-e62bc281f2b9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/attachment/all/201705/18_9ae40d1cfd0fb27171c8e9f7bb79525.jpg" afterPath="$PROJECT_DIR$/project/beifen/attachment/all/201705/18_9ae40d1cfd0fb27171c8e9f7bb79525.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/attachment/all/201705/18_c0a564d6156f958d565370f15b6cb87.jpg" afterPath="$PROJECT_DIR$/project/beifen/attachment/all/201705/18_c0a564d6156f958d565370f15b6cb87.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/attachment/all/201705/18_cb5fd3b49fdb483fdaee6236f36630b.jpg" afterPath="$PROJECT_DIR$/project/beifen/attachment/all/201705/18_cb5fd3b49fdb483fdaee6236f36630b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/zhuanqian.php.bak" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/zhuanqian.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/callback/pay_bank_callback.php.bak" afterPath="$PROJECT_DIR$/project/beifen/wotpay/callback/pay_bank_callback.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/config/pay_config.php.bak" afterPath="$PROJECT_DIR$/project/beifen/wotpay/config/pay_config.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/pay_go.php.bak" afterPath="$PROJECT_DIR$/project/beifen/wotpay/pay_go.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/callback/pay_bank_callback.php.bak" afterPath="$PROJECT_DIR$/project/wotpay/callback/pay_bank_callback.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/config/pay_config.php.bak" afterPath="$PROJECT_DIR$/project/wotpay/config/pay_config.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/pay_go.php.bak" afterPath="$PROJECT_DIR$/project/wotpay/pay_go.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/1.php" afterPath="$PROJECT_DIR$/project/1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ErrorFiles/400.html" afterPath="$PROJECT_DIR$/project/ErrorFiles/400.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ErrorFiles/401.html" afterPath="$PROJECT_DIR$/project/ErrorFiles/401.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ErrorFiles/403.html" afterPath="$PROJECT_DIR$/project/ErrorFiles/403.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ErrorFiles/404.html" afterPath="$PROJECT_DIR$/project/ErrorFiles/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ErrorFiles/500.html" afterPath="$PROJECT_DIR$/project/ErrorFiles/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ErrorFiles/502.html" afterPath="$PROJECT_DIR$/project/ErrorFiles/502.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ErrorFiles/504.html" afterPath="$PROJECT_DIR$/project/ErrorFiles/504.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/README.md" afterPath="$PROJECT_DIR$/project/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ad.css" afterPath="$PROJECT_DIR$/project/ad.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ad.js" afterPath="$PROJECT_DIR$/project/ad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/admin.php" afterPath="$PROJECT_DIR$/project/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ajax.php" afterPath="$PROJECT_DIR$/project/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/api.php" afterPath="$PROJECT_DIR$/project/api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/appotapay/appota.php" afterPath="$PROJECT_DIR$/project/appotapay/appota.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/appotapay/payment.php" afterPath="$PROJECT_DIR$/project/appotapay/payment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/.htaccess" afterPath="$PROJECT_DIR$/project/beifen/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/1.php" afterPath="$PROJECT_DIR$/project/beifen/1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ErrorFiles/400.html" afterPath="$PROJECT_DIR$/project/beifen/ErrorFiles/400.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ErrorFiles/401.html" afterPath="$PROJECT_DIR$/project/beifen/ErrorFiles/401.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ErrorFiles/403.html" afterPath="$PROJECT_DIR$/project/beifen/ErrorFiles/403.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ErrorFiles/404.html" afterPath="$PROJECT_DIR$/project/beifen/ErrorFiles/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ErrorFiles/500.html" afterPath="$PROJECT_DIR$/project/beifen/ErrorFiles/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ErrorFiles/502.html" afterPath="$PROJECT_DIR$/project/beifen/ErrorFiles/502.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ErrorFiles/504.html" afterPath="$PROJECT_DIR$/project/beifen/ErrorFiles/504.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ad.css" afterPath="$PROJECT_DIR$/project/beifen/ad.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ad.js" afterPath="$PROJECT_DIR$/project/beifen/ad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/admin.php" afterPath="$PROJECT_DIR$/project/beifen/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ajax.php" afterPath="$PROJECT_DIR$/project/beifen/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/api.php" afterPath="$PROJECT_DIR$/project/beifen/api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/eee.php" afterPath="$PROJECT_DIR$/project/beifen/eee.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ewm.php" afterPath="$PROJECT_DIR$/project/beifen/ewm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/index.php" afterPath="$PROJECT_DIR$/project/beifen/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/install.php" afterPath="$PROJECT_DIR$/project/beifen/install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/json.php" afterPath="$PROJECT_DIR$/project/beifen/json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/key.php" afterPath="$PROJECT_DIR$/project/beifen/key.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/ajax.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/ajax.php.bak" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/ajax.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/alipay.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/alipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/alixundan.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/alixundan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/appali.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/appali.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepal.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepkj.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepkj.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepwx.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepwx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepwy.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/heepwy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/jdpay.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/jdpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/jdwyin.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/jdwyin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/kfweixin.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/kfweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/tenpay.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/tenpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/wapalipay.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/wapalipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/weixin.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/weixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/zsfakala.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/zsfakala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/zszhifu.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/pay/zszhifu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/moudl/weixin.php" afterPath="$PROJECT_DIR$/project/beifen/ong/moudl/weixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/ong.php" afterPath="$PROJECT_DIR$/project/beifen/ong/ong.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" afterPath="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/plus/post.php" afterPath="$PROJECT_DIR$/project/beifen/ong/plus/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/plus/temp/7ec3ec2a93bb3e6b4b7b2fc5d0e01573.php" afterPath="$PROJECT_DIR$/project/beifen/ong/plus/temp/7ec3ec2a93bb3e6b4b7b2fc5d0e01573.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/plus/temp/README.md" afterPath="$PROJECT_DIR$/project/beifen/ong/plus/temp/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay.php" afterPath="$PROJECT_DIR$/project/beifen/pay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbalipay.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbalipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbalixundan.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbalixundan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbappali.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbappali.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbheepal.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbheepal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbheepkj.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbheepkj.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbheepwx.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbheepwx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbheepwy.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbheepwy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbjdpay.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbjdpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbjdwyin.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbjdwyin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbkfweixin.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbkfweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbtenpay.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbtenpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbweixin.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbzsfakala.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbzsfakala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/tbzszhifu.php" afterPath="$PROJECT_DIR$/project/beifen/pay/tbzszhifu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybalipay.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybalipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybalixundan.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybalixundan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybappali.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybappali.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybheepal.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybheepal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybheepkj.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybheepkj.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybheepwx.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybheepwx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybheepwy.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybheepwy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybjdpay.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybjdpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybjdwyin.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybjdwyin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybkfweixin.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybkfweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybtenpay.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybtenpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybweixin.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybzsfakala.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybzsfakala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/pay/ybzszhifu.php" afterPath="$PROJECT_DIR$/project/beifen/pay/ybzszhifu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/static/js/move.min.js" afterPath="$PROJECT_DIR$/project/beifen/static/js/move.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tg.php" afterPath="$PROJECT_DIR$/project/beifen/tg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/admin.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/adminfenzu.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/adminfenzu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/adminlog.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/adminlog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/ajax - 副本.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/ajax - 副本.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/ajax.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/center.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/center.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/center1.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/center1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/chanpingg.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/chanpingg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/chengshi.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/chengshi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/dingdan.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/dingdan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/dingdanx.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/dingdanx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/fahuo.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/fahuo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/fujian.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/fujian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/fz.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/fz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/hongbao.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/hongbao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/huobilog.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/huobilog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/jifenlog.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/jifenlog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/jinelog.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/jinelog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/logac.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/logac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/memcached.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/memcached.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/mkhtml.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/mkhtml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/pay.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/pay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/pinglun.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/pinglun.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/scurl.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/scurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/shouhuo.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/shouhuo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/sqlbak.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/sqlbak.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/type.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/type.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/type1.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/type1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/uiset.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/uiset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/user.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/userlog.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/userlog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/wawatixian.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/wawatixian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/xtset.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/xtset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/yongjinjilu.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/yongjinjilu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/youqing.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/youqing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/yunfei.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/yunfei.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/zhuawawashezhi.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/action/zhuawawashezhi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/ajax.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/foot.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/foot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/main.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/msgbox.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/msgbox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/yongjinjilu.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/yongjinjilu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/zhuawawashezhi.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/admin/admin/zhuawawashezhi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/h-ui/js/skin/layer.css" afterPath="$PROJECT_DIR$/project/beifen/tpl/h-ui/js/skin/layer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/h-ui/js/skin/layer.ext.css" afterPath="$PROJECT_DIR$/project/beifen/tpl/h-ui/js/skin/layer.ext.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/ajax.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/foot.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/foot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/index.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/index.php.bak" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/index.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/jilu.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/jilu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/login.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/paihangbang.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/paihangbang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/qt_cn.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/qt_cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/qt_ui.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/qt_ui.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/reg.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/reg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/reg.php.bak" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/reg.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/tixian.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/tixian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/yongjin.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/yongjin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/zhuanqian.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/zhuanqian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/home/shop/zhuanqian1.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/home/shop/zhuanqian1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/WdatePicker.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/WdatePicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/calendar.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/lang/cn.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/lang/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/lang/en.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/lang/tw.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/lang/tw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/skin/twoer/datepicker-dev.css" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/skin/twoer/datepicker-dev.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/skin/whyGreen/datepicker.css" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/My97DatePicker/skin/whyGreen/datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/Switch/bootstrapSwitch.css" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/Switch/bootstrapSwitch.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/Switch/bootstrapSwitch.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/Switch/bootstrapSwitch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/ad.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/ad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/lang/ar.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/lang/cn.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/lang/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/lang/en.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/clearhtml/clearhtml.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/clearhtml/clearhtml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/code/code.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/code/code.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/emoticons/emoticons.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/emoticons/emoticons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/filemanager/filemanager.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/filemanager/filemanager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/flash/flash.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/flash/flash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/image/image.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/image/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/insertfile/insertfile.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/insertfile/insertfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/lineheight/lineheight.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/lineheight/lineheight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/link/link.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/link/link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/map/map.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/map/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/map/map.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/map/map.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/media/media.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/media/media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/pagebreak/pagebreak.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/pagebreak/pagebreak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/plainpaste/plainpaste.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/plainpaste/plainpaste.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/preview/preview.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/preview/preview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/quickformat/quickformat.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/quickformat/quickformat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/table/table.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/table/table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/template/template.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/template/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/wordpaste/wordpaste.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/kindeditor/plugins/wordpaste/wordpaste.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/lib/passwordStrength-min.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/lib/passwordStrength-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/lightbox2/2.8.1/examples.html" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/lightbox2/2.8.1/examples.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/lightbox2/2.8.1/js/lightbox-plus-jquery.min.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/lightbox2/2.8.1/js/lightbox-plus-jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/nicEdit/cn.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/nicEdit/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/nicEdit/en.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/nicEdit/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/js/nicEdit/新建文本文档.txt" afterPath="$PROJECT_DIR$/project/beifen/tpl/js/nicEdit/新建文本文档.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/lang/cn.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/lang/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/lang/ht_cn.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/lang/ht_cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/fenxiang.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/fenxiang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/haibao.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/haibao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/huishou.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/huishou.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/img/games_widget_f94212b.css" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/img/games_widget_f94212b.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/img/main.min.js" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/img/main.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/test.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/yaoqing.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/yaoqing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/yindao.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/yindao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/yinreg.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/yinreg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/yinzhuan.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/yinzhuan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/tpl/tg/yqsuccess.php" afterPath="$PROJECT_DIR$/project/beifen/tpl/tg/yqsuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/u.asp" afterPath="$PROJECT_DIR$/project/beifen/u.asp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/u.php" afterPath="$PROJECT_DIR$/project/beifen/u.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/user.php" afterPath="$PROJECT_DIR$/project/beifen/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wawa.sql" afterPath="$PROJECT_DIR$/project/beifen/wawa.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/web.config" afterPath="$PROJECT_DIR$/project/beifen/web.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.custom.js" afterPath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.fis.js" afterPath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.fis.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.html5only.js" afterPath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.html5only.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.js" afterPath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.noimage.js" afterPath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.noimage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.nolog.js" afterPath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.nolog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.withoutimage.js" afterPath="$PROJECT_DIR$/project/beifen/webuploader/webuploader.withoutimage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/weixin.php" afterPath="$PROJECT_DIR$/project/beifen/weixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/ajax/pay_card_search.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/ajax/pay_card_search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/callback/bank_callback_test.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/callback/bank_callback_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/callback/card_callback_test.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/callback/card_callback_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/callback/pay_bank_callback.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/callback/pay_bank_callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/config/pay_config.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/config/pay_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/index.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/js/jquery.js" afterPath="$PROJECT_DIR$/project/beifen/wotpay/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/js/pay.js" afterPath="$PROJECT_DIR$/project/beifen/wotpay/js/pay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/js/pay_card_finish.js" afterPath="$PROJECT_DIR$/project/beifen/wotpay/js/pay_card_finish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/pay.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/pay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/pay.php.bak" afterPath="$PROJECT_DIR$/project/beifen/wotpay/pay.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/pay_card_finish.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/pay_card_finish.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/pay_go.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/pay_go.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/class.bankpay.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/class.bankpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/class.shunfoo.muti.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/class.shunfoo.muti.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/class.shunfoo.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/class.shunfoo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/init.php" afterPath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/init.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/readme.txt" afterPath="$PROJECT_DIR$/project/beifen/wotpay/shunfoo/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/wotpay/style/shunfoo.css" afterPath="$PROJECT_DIR$/project/beifen/wotpay/style/shunfoo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/youyunbao/log.txt" afterPath="$PROJECT_DIR$/project/beifen/youyunbao/log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/youyunbao/notify.php" afterPath="$PROJECT_DIR$/project/beifen/youyunbao/notify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/youyunbao/pay.php" afterPath="$PROJECT_DIR$/project/beifen/youyunbao/pay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/数据库在这里，导入格式UTF8.sql" afterPath="$PROJECT_DIR$/project/beifen/数据库在这里，导入格式UTF8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/eee.php" afterPath="$PROJECT_DIR$/project/eee.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ewm.php" afterPath="$PROJECT_DIR$/project/ewm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/index.php" afterPath="$PROJECT_DIR$/project/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/install.php" afterPath="$PROJECT_DIR$/project/install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/json.php" afterPath="$PROJECT_DIR$/project/json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/key.php" afterPath="$PROJECT_DIR$/project/key.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/config.php" afterPath="$PROJECT_DIR$/project/ong/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/ajax.php" afterPath="$PROJECT_DIR$/project/ong/moudl/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/ajax.php.bak" afterPath="$PROJECT_DIR$/project/ong/moudl/ajax.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/alipay.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/alipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/alixundan.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/alixundan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/appali.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/appali.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/heepal.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/heepal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/heepkj.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/heepkj.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/heepwx.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/heepwx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/heepwy.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/heepwy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/jdpay.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/jdpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/jdwyin.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/jdwyin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/kfweixin.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/kfweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/tenpay.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/tenpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/wapalipay.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/wapalipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/weixin.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/weixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/zsfakala.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/zsfakala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/zszhifu.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/zszhifu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/weixin.php" afterPath="$PROJECT_DIR$/project/ong/moudl/weixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/ong.php" afterPath="$PROJECT_DIR$/project/ong/ong.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/plus/funciton.php" afterPath="$PROJECT_DIR$/project/ong/plus/funciton.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/plus/post.php" afterPath="$PROJECT_DIR$/project/ong/plus/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/plus/temp/7ec3ec2a93bb3e6b4b7b2fc5d0e01573.php" afterPath="$PROJECT_DIR$/project/ong/plus/temp/7ec3ec2a93bb3e6b4b7b2fc5d0e01573.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/plus/temp/README.md" afterPath="$PROJECT_DIR$/project/ong/plus/temp/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/temp/adminlogin/1.php" afterPath="$PROJECT_DIR$/project/ong/temp/adminlogin/1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/temp/uid/156.php" afterPath="$PROJECT_DIR$/project/ong/temp/uid/156.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/temp/uid/690.php" afterPath="$PROJECT_DIR$/project/ong/temp/uid/690.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/temp/uid/691.php" afterPath="$PROJECT_DIR$/project/ong/temp/uid/691.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay.php" afterPath="$PROJECT_DIR$/project/pay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbalipay.php" afterPath="$PROJECT_DIR$/project/pay/tbalipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbalixundan.php" afterPath="$PROJECT_DIR$/project/pay/tbalixundan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbappali.php" afterPath="$PROJECT_DIR$/project/pay/tbappali.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbheepal.php" afterPath="$PROJECT_DIR$/project/pay/tbheepal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbheepkj.php" afterPath="$PROJECT_DIR$/project/pay/tbheepkj.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbheepwx.php" afterPath="$PROJECT_DIR$/project/pay/tbheepwx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbheepwy.php" afterPath="$PROJECT_DIR$/project/pay/tbheepwy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbjdpay.php" afterPath="$PROJECT_DIR$/project/pay/tbjdpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbjdwyin.php" afterPath="$PROJECT_DIR$/project/pay/tbjdwyin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbkfweixin.php" afterPath="$PROJECT_DIR$/project/pay/tbkfweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbmyjhpay.php" afterPath="$PROJECT_DIR$/project/pay/tbmyjhpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbtenpay.php" afterPath="$PROJECT_DIR$/project/pay/tbtenpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbweixin.php" afterPath="$PROJECT_DIR$/project/pay/tbweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbzsfakala.php" afterPath="$PROJECT_DIR$/project/pay/tbzsfakala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/tbzszhifu.php" afterPath="$PROJECT_DIR$/project/pay/tbzszhifu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybalipay.php" afterPath="$PROJECT_DIR$/project/pay/ybalipay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybalixundan.php" afterPath="$PROJECT_DIR$/project/pay/ybalixundan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybappali.php" afterPath="$PROJECT_DIR$/project/pay/ybappali.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybheepal.php" afterPath="$PROJECT_DIR$/project/pay/ybheepal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybheepkj.php" afterPath="$PROJECT_DIR$/project/pay/ybheepkj.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybheepwx.php" afterPath="$PROJECT_DIR$/project/pay/ybheepwx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybheepwy.php" afterPath="$PROJECT_DIR$/project/pay/ybheepwy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybjdpay.php" afterPath="$PROJECT_DIR$/project/pay/ybjdpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybjdwyin.php" afterPath="$PROJECT_DIR$/project/pay/ybjdwyin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybkfweixin.php" afterPath="$PROJECT_DIR$/project/pay/ybkfweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybmyjhpay.php" afterPath="$PROJECT_DIR$/project/pay/ybmyjhpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybtenpay.php" afterPath="$PROJECT_DIR$/project/pay/ybtenpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybweixin.php" afterPath="$PROJECT_DIR$/project/pay/ybweixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybzsfakala.php" afterPath="$PROJECT_DIR$/project/pay/ybzsfakala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/pay/ybzszhifu.php" afterPath="$PROJECT_DIR$/project/pay/ybzszhifu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/static/js/move.min.js" afterPath="$PROJECT_DIR$/project/static/js/move.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tg.php" afterPath="$PROJECT_DIR$/project/tg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/admin.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/admin_test.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/admin_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/adminfenzu.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/adminfenzu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/adminlog.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/adminlog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/ajax - 副本.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/ajax - 副本.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/ajax.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/center.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/center.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/center1.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/center1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/chanpingg.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/chanpingg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/chengshi.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/chengshi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/dingdan.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/dingdan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/dingdanx.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/dingdanx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/fahuo.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/fahuo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/fujian.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/fujian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/fz.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/fz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/hongbao.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/hongbao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/huobilog.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/huobilog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/jifenlog.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/jifenlog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/jinelog.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/jinelog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/logac.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/logac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/memcached.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/memcached.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/mkhtml.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/mkhtml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/pay.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/pay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/pinglun.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/pinglun.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/scurl.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/scurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/shouhuo.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/shouhuo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/sqlbak.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/sqlbak.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/type.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/type.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/type1.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/type1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/uiset.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/uiset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/user.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/userlog.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/userlog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/wawatixian.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/wawatixian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/xtset.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/xtset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/yongjinjilu.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/yongjinjilu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/youqing.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/youqing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/yunfei.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/yunfei.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/action/zhuawawashezhi.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/action/zhuawawashezhi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/ajax.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/foot.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/foot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/main.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/msgbox.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/msgbox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/yongjinjilu.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/yongjinjilu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/zhuawawashezhi.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/zhuawawashezhi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/h-ui/js/skin/layer.css" afterPath="$PROJECT_DIR$/project/tpl/h-ui/js/skin/layer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/h-ui/js/skin/layer.ext.css" afterPath="$PROJECT_DIR$/project/tpl/h-ui/js/skin/layer.ext.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/ajax.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/foot.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/foot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/index.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/jilu.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/jilu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/login.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/paihangbang.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/paihangbang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/qt_cn.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/qt_cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/qt_ui.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/qt_ui.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/reg.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/reg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/tixian.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/tixian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/yongjin.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/yongjin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/zhuanqian.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/zhuanqian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/WdatePicker.js" afterPath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/WdatePicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/calendar.js" afterPath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/lang/cn.js" afterPath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/lang/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/lang/en.js" afterPath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/lang/tw.js" afterPath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/lang/tw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/skin/twoer/datepicker-dev.css" afterPath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/skin/twoer/datepicker-dev.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/skin/whyGreen/datepicker.css" afterPath="$PROJECT_DIR$/project/tpl/js/My97DatePicker/skin/whyGreen/datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/Switch/bootstrapSwitch.css" afterPath="$PROJECT_DIR$/project/tpl/js/Switch/bootstrapSwitch.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/Switch/bootstrapSwitch.js" afterPath="$PROJECT_DIR$/project/tpl/js/Switch/bootstrapSwitch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/ad.js" afterPath="$PROJECT_DIR$/project/tpl/js/ad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/lang/ar.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/lang/cn.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/lang/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/lang/en.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/clearhtml/clearhtml.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/clearhtml/clearhtml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/code/code.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/code/code.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/emoticons/emoticons.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/emoticons/emoticons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/filemanager/filemanager.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/filemanager/filemanager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/flash/flash.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/flash/flash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/image/image.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/image/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/insertfile/insertfile.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/insertfile/insertfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/lineheight/lineheight.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/lineheight/lineheight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/link/link.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/link/link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/map/map.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/map/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/map/map.php" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/map/map.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/media/media.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/media/media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/pagebreak/pagebreak.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/pagebreak/pagebreak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/plainpaste/plainpaste.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/plainpaste/plainpaste.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/preview/preview.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/preview/preview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/quickformat/quickformat.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/quickformat/quickformat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/table/table.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/table/table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/template/template.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/template/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/wordpaste/wordpaste.js" afterPath="$PROJECT_DIR$/project/tpl/js/kindeditor/plugins/wordpaste/wordpaste.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/lib/passwordStrength-min.js" afterPath="$PROJECT_DIR$/project/tpl/js/lib/passwordStrength-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/lightbox2/2.8.1/examples.html" afterPath="$PROJECT_DIR$/project/tpl/js/lightbox2/2.8.1/examples.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/lightbox2/2.8.1/js/lightbox-plus-jquery.min.js" afterPath="$PROJECT_DIR$/project/tpl/js/lightbox2/2.8.1/js/lightbox-plus-jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/nicEdit/cn.js" afterPath="$PROJECT_DIR$/project/tpl/js/nicEdit/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/nicEdit/en.js" afterPath="$PROJECT_DIR$/project/tpl/js/nicEdit/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/js/nicEdit/新建文本文档.txt" afterPath="$PROJECT_DIR$/project/tpl/js/nicEdit/新建文本文档.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/lang/cn.js" afterPath="$PROJECT_DIR$/project/tpl/lang/cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/lang/ht_cn.php" afterPath="$PROJECT_DIR$/project/tpl/lang/ht_cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/fenxiang.php" afterPath="$PROJECT_DIR$/project/tpl/tg/fenxiang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/haibao.php" afterPath="$PROJECT_DIR$/project/tpl/tg/haibao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/huishou.php" afterPath="$PROJECT_DIR$/project/tpl/tg/huishou.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/img/games_widget_f94212b.css" afterPath="$PROJECT_DIR$/project/tpl/tg/img/games_widget_f94212b.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/img/main.min.js" afterPath="$PROJECT_DIR$/project/tpl/tg/img/main.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/test.php" afterPath="$PROJECT_DIR$/project/tpl/tg/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/yaoqing.php" afterPath="$PROJECT_DIR$/project/tpl/tg/yaoqing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/yindao.php" afterPath="$PROJECT_DIR$/project/tpl/tg/yindao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/yinreg.php" afterPath="$PROJECT_DIR$/project/tpl/tg/yinreg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/yinzhuan.php" afterPath="$PROJECT_DIR$/project/tpl/tg/yinzhuan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/tg/yqsuccess.php" afterPath="$PROJECT_DIR$/project/tpl/tg/yqsuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/u.asp" afterPath="$PROJECT_DIR$/project/u.asp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/u.php" afterPath="$PROJECT_DIR$/project/u.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/user.php" afterPath="$PROJECT_DIR$/project/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/vendor/paypal/rest-api-sdk-php/composer.json" afterPath="$PROJECT_DIR$/project/vendor/paypal/rest-api-sdk-php/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/web.config" afterPath="$PROJECT_DIR$/project/web.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/webuploader/webuploader.custom.js" afterPath="$PROJECT_DIR$/project/webuploader/webuploader.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/webuploader/webuploader.fis.js" afterPath="$PROJECT_DIR$/project/webuploader/webuploader.fis.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/webuploader/webuploader.html5only.js" afterPath="$PROJECT_DIR$/project/webuploader/webuploader.html5only.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/webuploader/webuploader.js" afterPath="$PROJECT_DIR$/project/webuploader/webuploader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/webuploader/webuploader.noimage.js" afterPath="$PROJECT_DIR$/project/webuploader/webuploader.noimage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/webuploader/webuploader.nolog.js" afterPath="$PROJECT_DIR$/project/webuploader/webuploader.nolog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/webuploader/webuploader.withoutimage.js" afterPath="$PROJECT_DIR$/project/webuploader/webuploader.withoutimage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/weixin.php" afterPath="$PROJECT_DIR$/project/weixin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/ajax/pay_card_search.php" afterPath="$PROJECT_DIR$/project/wotpay/ajax/pay_card_search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/callback/bank_callback_test.php" afterPath="$PROJECT_DIR$/project/wotpay/callback/bank_callback_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/callback/card_callback_test.php" afterPath="$PROJECT_DIR$/project/wotpay/callback/card_callback_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/callback/pay_bank_callback.php" afterPath="$PROJECT_DIR$/project/wotpay/callback/pay_bank_callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/config/pay_config.php" afterPath="$PROJECT_DIR$/project/wotpay/config/pay_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/index.php" afterPath="$PROJECT_DIR$/project/wotpay/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/js/jquery.js" afterPath="$PROJECT_DIR$/project/wotpay/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/js/pay.js" afterPath="$PROJECT_DIR$/project/wotpay/js/pay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/js/pay_card_finish.js" afterPath="$PROJECT_DIR$/project/wotpay/js/pay_card_finish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/pay.php" afterPath="$PROJECT_DIR$/project/wotpay/pay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/pay.php.bak" afterPath="$PROJECT_DIR$/project/wotpay/pay.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/pay_card_finish.php" afterPath="$PROJECT_DIR$/project/wotpay/pay_card_finish.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/pay_go.php" afterPath="$PROJECT_DIR$/project/wotpay/pay_go.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/shunfoo/class.bankpay.php" afterPath="$PROJECT_DIR$/project/wotpay/shunfoo/class.bankpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/shunfoo/class.shunfoo.muti.php" afterPath="$PROJECT_DIR$/project/wotpay/shunfoo/class.shunfoo.muti.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/shunfoo/class.shunfoo.php" afterPath="$PROJECT_DIR$/project/wotpay/shunfoo/class.shunfoo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/shunfoo/init.php" afterPath="$PROJECT_DIR$/project/wotpay/shunfoo/init.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/shunfoo/readme.txt" afterPath="$PROJECT_DIR$/project/wotpay/shunfoo/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/wotpay/style/shunfoo.css" afterPath="$PROJECT_DIR$/project/wotpay/style/shunfoo.css" />
     </list>
     <ignored path="wawa_pro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,10 +484,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-267.42856">
-              <caret line="360" column="65" selection-start-line="360" selection-start-column="20" selection-end-line="360" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="359" column="40" selection-start-line="359" selection-start-column="40" selection-end-line="359" selection-end-column="40" />
               <folding>
-                <marker date="1511754583482" expanded="true" signature="25729:25762" placeholder="..." />
+                <marker date="1511754583482" expanded="true" signature="26345:26352" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -41,8 +497,10 @@
         <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/tixian.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="213" column="41" selection-start-line="213" selection-start-column="41" selection-end-line="213" selection-end-column="41" />
-              <folding />
+              <caret line="212" column="41" selection-start-line="212" selection-start-column="41" selection-end-line="212" selection-end-column="41" />
+              <folding>
+                <marker date="1511768146124" expanded="true" signature="5558:5565" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,18 +508,48 @@
       <file leaf-file-name="ajax.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/ajax.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.6285715">
-              <caret line="226" column="21" selection-start-line="226" selection-start-column="21" selection-end-line="226" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/ong/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20611551">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state vertical-scroll-proportion="-5.9428573">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appota.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-29.714285">
+              <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.285715">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myjhpay.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1649245">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -124,17 +612,7 @@
         <entry file="file://$PROJECT_DIR$/project/ong/ong.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reg.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/reg.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,12 +643,12 @@
         <option value="$PROJECT_DIR$/project/ong/moudl/pay.php" />
         <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
         <option value="$PROJECT_DIR$/project/appotapay/appota.php" />
-        <option value="$PROJECT_DIR$/project/appotapay/payment.php" />
-        <option value="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" />
         <option value="$PROJECT_DIR$/project/tpl/home/shop/tixian.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/ajax.php" />
         <option value="$PROJECT_DIR$/project/ong/plus/db.php" />
         <option value="$PROJECT_DIR$/project/ong/config.php" />
+        <option value="$PROJECT_DIR$/project/appotapay/payment.php" />
+        <option value="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" />
       </list>
     </option>
   </component>
@@ -214,8 +692,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,14 +742,82 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wawa_pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wawa_pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moudl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wawa_pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wawa_pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moudl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wawa_pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wawa_pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appotapay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jiaoyou" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -326,10 +870,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3611111" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -632,21 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.1506228">
           <caret line="167" column="37" selection-start-line="167" selection-start-column="37" selection-end-line="167" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4">
-          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.914286">
-          <caret line="69" column="91" selection-start-line="69" selection-start-column="91" selection-end-line="69" selection-end-column="91" />
         </state>
       </provider>
     </entry>
@@ -661,31 +1190,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.885715">
-          <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
+          <folding>
+            <marker date="1508310822000" expanded="true" signature="5510:5517" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/tixian.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="213" column="41" selection-start-line="213" selection-start-column="41" selection-end-line="213" selection-end-column="41" />
-          <folding />
+          <caret line="212" column="41" selection-start-line="212" selection-start-column="41" selection-end-line="212" selection-end-column="41" />
+          <folding>
+            <marker date="1511768146124" expanded="true" signature="5558:5565" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-267.42856">
-          <caret line="360" column="65" selection-start-line="360" selection-start-column="20" selection-end-line="360" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="359" column="40" selection-start-line="359" selection-start-column="40" selection-end-line="359" selection-end-column="40" />
           <folding>
-            <marker date="1511754583482" expanded="true" signature="25729:25762" placeholder="..." />
+            <marker date="1511754583482" expanded="true" signature="26345:26352" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -694,7 +1220,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33294255">
           <caret line="38" column="18" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +1233,7 @@
     <entry file="file://$PROJECT_DIR$/project/ong/ong.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -766,22 +1291,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20611551">
           <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.6285715">
-          <caret line="226" column="21" selection-start-line="226" selection-start-column="21" selection-end-line="226" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/ong/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20611551">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state vertical-scroll-proportion="-5.9428573">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.714285">
+          <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.285715">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1649245">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
           <folding />
         </state>
       </provider>

@@ -6,7 +6,7 @@
     'port' => '3306',
     'user' => 'root',
     'pass' => '',
-    'name' => 'project',
+    'name' => 'wawa',
     'char' => 'utf8',
     'qian' => 'ay_',
   ),
