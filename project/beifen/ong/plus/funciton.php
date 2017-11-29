@@ -155,7 +155,7 @@ function yzcode( $biaodan = 'code' , $lx = 0 ,$time = 0 , $schu = 1){
         /*  验证code
            $biaodan = 接收表单;
         */
-        return true;
+
         if( ! isset( $_POST[ $biaodan ] ) ||
             ! isset( $_SESSION['code'] ) ||
             $_SESSION['code'] == ''
@@ -163,7 +163,7 @@ function yzcode( $biaodan = 'code' , $lx = 0 ,$time = 0 , $schu = 1){
 
         $CODE = $lx == 1 ? $_POST[ $biaodan] : strtolower( $_POST[$biaodan] );
 
-        if( $_SESSION['code'] != $CODE ) return true;
+        if( $_SESSION['code'] != $CODE ) return false;
 
         if( $schu == 1 ) unset( $_SESSION['code'] );
 

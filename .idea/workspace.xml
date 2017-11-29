@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb99f20-667e-4459-b4b1-e62bc281f2b9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" afterPath="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/admin.php" afterPath="$PROJECT_DIR$/project/ong/moudl/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/admin/admin/login.php" afterPath="$PROJECT_DIR$/project/tpl/admin/admin/login.php" />
     </list>
     <ignored path="wawa_pro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,14 +56,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.2">
-              <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.5">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/ong/moudl/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.031325303">
-              <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+            <state vertical-scroll-proportion="-0.4">
+              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -109,58 +109,58 @@
       <file leaf-file-name="funciton.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/beifen/ong/plus/funciton.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7714286">
-              <caret line="157" column="20" selection-start-line="157" selection-start-column="20" selection-end-line="157" selection-end-column="20" />
+            <state vertical-scroll-proportion="-13.714286">
+              <caret line="165" column="53" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="53" />
               <folding>
-                <marker date="1511944253667" expanded="true" signature="15613:15760" placeholder="..." />
-                <marker date="1511944253667" expanded="true" signature="16849:18643" placeholder="..." />
-                <marker date="1511944253667" expanded="true" signature="16879:18616" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="16959:18282" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944253667" expanded="true" signature="17363:18056" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="17452:17744" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="17748:17994" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="18087:18252" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="18365:18483" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="19828:20742" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="19873:20174" placeholder="{&quot;allowFileManager&quot;: false...}" />
-                <marker date="1511944253667" expanded="true" signature="20240:20742" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="20305:20742" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="20362:20742" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="20420:20742" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="20554:20742" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="20614:20742" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="22798:23244" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="22869:23244" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944253667" expanded="true" signature="23150:23244" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="25629:27428" placeholder="..." />
-                <marker date="1511944253667" expanded="true" signature="25659:27401" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="25740:27065" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-                <marker date="1511944253667" expanded="true" signature="26145:26839" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="26234:26527" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="26531:26777" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="26870:27035" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="27149:27268" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="28104:28115" placeholder="..." />
-                <marker date="1511944253667" expanded="true" signature="28225:28237" placeholder="..." />
-                <marker date="1511944253667" expanded="true" signature="30384:31134" placeholder="..." />
-                <marker date="1511944253667" expanded="true" signature="30476:31103" placeholder="{...}" />
-                <marker date="1511944253667" expanded="true" signature="30540:31099" placeholder="{&quot;resizeType&quot;: 1...}" />
-                <marker date="1511944253667" expanded="false" signature="31186:31221" placeholder="..." />
-                <marker date="1511944253667" expanded="true" signature="71937:71980" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="72248:72291" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="73032:73075" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="73881:73924" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="74548:74591" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="75246:75289" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="76126:76169" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="76992:77035" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="77685:77728" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="78408:78451" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="79259:79302" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="80094:80137" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="80744:80787" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="81409:81452" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-                <marker date="1511944253667" expanded="true" signature="82091:82134" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="15594:15741" placeholder="..." />
+                <marker date="1511944486870" expanded="true" signature="16830:18624" placeholder="..." />
+                <marker date="1511944486870" expanded="true" signature="16860:18597" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="16940:18263" placeholder="{&quot;fieldName&quot;: 'all'...}" />
+                <marker date="1511944486870" expanded="true" signature="17344:18037" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="17433:17725" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="17729:17975" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="18068:18233" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="18346:18464" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="19809:20723" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="19854:20155" placeholder="{&quot;allowFileManager&quot;: false...}" />
+                <marker date="1511944486870" expanded="true" signature="20221:20723" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="20286:20723" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="20343:20723" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="20401:20723" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="20535:20723" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="20595:20723" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="22779:23225" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="22850:23225" placeholder="{&quot;fieldName&quot;: 'all'...}" />
+                <marker date="1511944486870" expanded="true" signature="23131:23225" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="25610:27409" placeholder="..." />
+                <marker date="1511944486870" expanded="true" signature="25640:27382" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="25721:27046" placeholder="{&quot;fieldName&quot;: 'all'...}" />
+                <marker date="1511944486870" expanded="true" signature="26126:26820" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="26215:26508" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="26512:26758" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="26851:27016" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="27130:27249" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="28085:28096" placeholder="..." />
+                <marker date="1511944486870" expanded="true" signature="28206:28218" placeholder="..." />
+                <marker date="1511944486870" expanded="true" signature="30365:31115" placeholder="..." />
+                <marker date="1511944486870" expanded="true" signature="30457:31084" placeholder="{...}" />
+                <marker date="1511944486870" expanded="true" signature="30521:31080" placeholder="{&quot;resizeType&quot;: 1...}" />
+                <marker date="1511944486870" expanded="false" signature="31167:31202" placeholder="..." />
+                <marker date="1511944486870" expanded="true" signature="71918:71961" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="72229:72272" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="73013:73056" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="73862:73905" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="74529:74572" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="75227:75270" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="76107:76150" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="76973:77016" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="77666:77709" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="78389:78432" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="79240:79283" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="80075:80118" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="80725:80768" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="81390:81433" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+                <marker date="1511944486870" expanded="true" signature="82072:82115" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
               </folding>
             </state>
           </provider>
@@ -255,10 +255,10 @@
         <option value="$PROJECT_DIR$/project/appotapay/payment.php" />
         <option value="$PROJECT_DIR$/project/ong/config.php" />
         <option value="$PROJECT_DIR$/project/ong/conn.php" />
-        <option value="$PROJECT_DIR$/project/tpl/admin/admin/login.php" />
         <option value="$PROJECT_DIR$/project/ong/plus/funciton.php" />
         <option value="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/admin.php" />
+        <option value="$PROJECT_DIR$/project/tpl/admin/admin/login.php" />
       </list>
     </option>
   </component>
@@ -866,14 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.9692307">
-          <caret line="109" column="7" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.74285716">
@@ -919,16 +911,6 @@
         <state vertical-scroll-proportion="17.77143">
           <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2">
-          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -992,66 +974,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/beifen/ong/plus/funciton.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7714286">
-          <caret line="157" column="20" selection-start-line="157" selection-start-column="20" selection-end-line="157" selection-end-column="20" />
+        <state vertical-scroll-proportion="-13.714286">
+          <caret line="165" column="53" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="53" />
           <folding>
-            <marker date="1511944253667" expanded="true" signature="15613:15760" placeholder="..." />
-            <marker date="1511944253667" expanded="true" signature="16849:18643" placeholder="..." />
-            <marker date="1511944253667" expanded="true" signature="16879:18616" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="16959:18282" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944253667" expanded="true" signature="17363:18056" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="17452:17744" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="17748:17994" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="18087:18252" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="18365:18483" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="19828:20742" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="19873:20174" placeholder="{&quot;allowFileManager&quot;: false...}" />
-            <marker date="1511944253667" expanded="true" signature="20240:20742" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="20305:20742" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="20362:20742" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="20420:20742" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="20554:20742" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="20614:20742" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="22798:23244" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="22869:23244" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944253667" expanded="true" signature="23150:23244" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="25629:27428" placeholder="..." />
-            <marker date="1511944253667" expanded="true" signature="25659:27401" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="25740:27065" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944253667" expanded="true" signature="26145:26839" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="26234:26527" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="26531:26777" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="26870:27035" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="27149:27268" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="28104:28115" placeholder="..." />
-            <marker date="1511944253667" expanded="true" signature="28225:28237" placeholder="..." />
-            <marker date="1511944253667" expanded="true" signature="30384:31134" placeholder="..." />
-            <marker date="1511944253667" expanded="true" signature="30476:31103" placeholder="{...}" />
-            <marker date="1511944253667" expanded="true" signature="30540:31099" placeholder="{&quot;resizeType&quot;: 1...}" />
-            <marker date="1511944253667" expanded="false" signature="31186:31221" placeholder="..." />
-            <marker date="1511944253667" expanded="true" signature="71937:71980" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="72248:72291" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="73032:73075" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="73881:73924" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="74548:74591" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="75246:75289" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="76126:76169" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="76992:77035" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="77685:77728" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="78408:78451" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="79259:79302" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="80094:80137" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="80744:80787" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="81409:81452" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944253667" expanded="true" signature="82091:82134" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="15594:15741" placeholder="..." />
+            <marker date="1511944486870" expanded="true" signature="16830:18624" placeholder="..." />
+            <marker date="1511944486870" expanded="true" signature="16860:18597" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="16940:18263" placeholder="{&quot;fieldName&quot;: 'all'...}" />
+            <marker date="1511944486870" expanded="true" signature="17344:18037" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="17433:17725" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="17729:17975" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="18068:18233" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="18346:18464" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="19809:20723" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="19854:20155" placeholder="{&quot;allowFileManager&quot;: false...}" />
+            <marker date="1511944486870" expanded="true" signature="20221:20723" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="20286:20723" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="20343:20723" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="20401:20723" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="20535:20723" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="20595:20723" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="22779:23225" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="22850:23225" placeholder="{&quot;fieldName&quot;: 'all'...}" />
+            <marker date="1511944486870" expanded="true" signature="23131:23225" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="25610:27409" placeholder="..." />
+            <marker date="1511944486870" expanded="true" signature="25640:27382" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="25721:27046" placeholder="{&quot;fieldName&quot;: 'all'...}" />
+            <marker date="1511944486870" expanded="true" signature="26126:26820" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="26215:26508" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="26512:26758" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="26851:27016" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="27130:27249" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="28085:28096" placeholder="..." />
+            <marker date="1511944486870" expanded="true" signature="28206:28218" placeholder="..." />
+            <marker date="1511944486870" expanded="true" signature="30365:31115" placeholder="..." />
+            <marker date="1511944486870" expanded="true" signature="30457:31084" placeholder="{...}" />
+            <marker date="1511944486870" expanded="true" signature="30521:31080" placeholder="{&quot;resizeType&quot;: 1...}" />
+            <marker date="1511944486870" expanded="false" signature="31167:31202" placeholder="..." />
+            <marker date="1511944486870" expanded="true" signature="71918:71961" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="72229:72272" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="73013:73056" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="73862:73905" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="74529:74572" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="75227:75270" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="76107:76150" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="76973:77016" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="77666:77709" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="78389:78432" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="79240:79283" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="80075:80118" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="80725:80768" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="81390:81433" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
+            <marker date="1511944486870" expanded="true" signature="82072:82115" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/ong/moudl/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.031325303">
-          <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+        <state vertical-scroll-proportion="-0.4">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.9692307">
+          <caret line="109" column="7" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/admin/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>

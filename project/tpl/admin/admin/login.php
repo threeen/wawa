@@ -55,17 +55,17 @@
 		</div>
 
       </div>
-      <div class="row cl">
-        <div class="formControls col-xs-8 col-xs-offset-3">
-          <input class="input-text size-L" type="text" placeholder="<?php echo $LANG['code']?>"  maxlength="4" name="code" datatype="n" style="width:113px;">
-
-          <img src="?vocde=45" onclick="shuaxin();" id="newimg">
-		  <a id="kanbuq" onclick="shuaxin();" href="javascript:;"><?php echo $LANG['sicode']?></a>
-
-		 </div>
-
-
-      </div>
+<!--      <div class="row cl">-->
+<!--        <div class="formControls col-xs-8 col-xs-offset-3">-->
+<!--          <input class="input-text size-L" type="text" placeholder="--><?php //echo $LANG['code']?><!--"  maxlength="4" name="code" datatype="n" style="width:113px;">-->
+<!---->
+<!--          <img src="?vocde=45" onclick="shuaxin();" id="newimg">-->
+<!--		  <a id="kanbuq" onclick="shuaxin();" href="javascript:;">--><?php //echo $LANG['sicode']?><!--</a>-->
+<!---->
+<!--		 </div>-->
+<!---->
+<!---->
+<!--      </div>-->
    
 
       <div class="row cl">
