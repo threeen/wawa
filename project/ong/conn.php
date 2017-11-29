@@ -1,5 +1,5 @@
 <?php return array (
-  'dir' => '/wawa/project/',
+  'dir' => '/project/',
   'lang' => 'cn',
   'houzui' => '.html',
   'yunxing' => '0',
