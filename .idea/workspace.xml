@@ -4,9 +4,6 @@
     <list default="true" id="eeb99f20-667e-4459-b4b1-e62bc281f2b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/appotapay/payment.php" afterPath="$PROJECT_DIR$/project/appotapay/payment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" afterPath="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/temp/uid/156.php" afterPath="$PROJECT_DIR$/project/ong/temp/uid/156.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/static/js/web.min.js" afterPath="$PROJECT_DIR$/project/static/js/web.min.js" />
     </list>
     <ignored path="wawa_pro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,28 +52,28 @@
       <file leaf-file-name="appota.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="17.085714">
+            <state vertical-scroll-proportion="-49.857143">
               <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.171429">
-              <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.030197445">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myjhpay.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myjhpay.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24157956">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state vertical-scroll-proportion="-20.057142">
+              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -113,8 +110,8 @@
         <option value="$PROJECT_DIR$/project/ong/moudl/admin.php" />
         <option value="$PROJECT_DIR$/project/static/js/web.min.js" />
         <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
-        <option value="$PROJECT_DIR$/project/appotapay/payment.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" />
+        <option value="$PROJECT_DIR$/project/appotapay/payment.php" />
       </list>
     </option>
   </component>
@@ -917,14 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.085714">
-          <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/jdwyin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -933,18 +922,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
+    <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.171429">
-          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        <state vertical-scroll-proportion="-20.057142">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
+    <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24157956">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state vertical-scroll-proportion="-49.857143">
+          <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030197445">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>

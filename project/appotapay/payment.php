@@ -1,5 +1,5 @@
 <?php
-
+echo 'sdf';exit;
 require_once('./appota.php');
 
 // $jine = $_POST['money'];
