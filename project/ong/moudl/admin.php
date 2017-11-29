@@ -36,7 +36,7 @@ if( !isset( $_SESSION['houid'])){
      
         if( $_POST['action'] == 'login'){
 
-            if( !yzcode( 'code' , $CONN['sicode'] , 160 )  ) msgbox( $LANG['code'].$LANG['cuowu'],'?');
+            //if( !yzcode( 'code' , $CONN['sicode'] , 160 )  ) msgbox( $LANG['code'].$LANG['cuowu'],'?');
 
             if( !yztoken('token') ) msgbox( $LANG['token'].$LANG['cuowu'],'?');
 
