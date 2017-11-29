@@ -17,12 +17,12 @@ setsession( $CONN['sessiontime'] );
 $_SESSION['huotime'] = time();
 
 
-if( isset($_GET['vocde'])){
-
-    echo vcode('3','0123456789',4,130,40);
-    $_SESSION['linshtm'] = time();
-    exit();
-}
+//if( isset($_GET['vocde'])){
+//
+//    echo vcode('3','0123456789',4,130,40);
+//    $_SESSION['linshtm'] = time();
+//    exit();
+//}
 
 
 
