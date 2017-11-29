@@ -94,7 +94,7 @@ if( !isset( $_SESSION['houid'])){
 
     $DLIP = $Mem -> g( 'adminlogin/'. $USER['id'] );
 
-    if( $DLIP !=  $IP && $USER['yanzhengip'] == 1 ){
+    if( $DLIP !=  $IP && $USER['yanzhengip'] != 1 ){
 
            adminlog($USER['id'],2,serialize($DLIP));
            session_destroy();
