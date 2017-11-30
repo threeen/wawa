@@ -190,7 +190,6 @@ jQuery(function(){
             dataType:'json',
             success:function(data){
                 if (data.o=='yes') {
-                    alert('Tên người dùng hoặc mật khẩu sai');
                       window.location.href='index.php';
                 }else{
                     alert('Tên người dùng hoặc mật khẩu sai'); /*用户名或密码错误*/
