@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eeb99f20-667e-4459-b4b1-e62bc281f2b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/appotapay/payment.php" afterPath="$PROJECT_DIR$/project/appotapay/payment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/ong/temp/uid/156.php" afterPath="$PROJECT_DIR$/project/ong/temp/uid/156.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/static/js/web.min.js" afterPath="$PROJECT_DIR$/project/static/js/web.min.js" />
     </list>
     <ignored path="wawa_pro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,23 +29,29 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.984615">
-              <caret line="305" column="45" selection-start-line="305" selection-start-column="37" selection-end-line="305" selection-end-column="45" />
+            <state vertical-scroll-proportion="60.553844">
+              <caret line="295" column="66" selection-start-line="295" selection-start-column="65" selection-end-line="295" selection-end-column="66" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1511949170661" expanded="true" signature="25729:25762" placeholder="..." />
-                <marker date="1511949170661" expanded="true" signature="26345:26352" placeholder="..." />
+                <marker date="1512006474400" expanded="true" signature="25729:25762" placeholder="..." />
+                <marker date="1512006474400" expanded="true" signature="26345:26352" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.min.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.min.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/static/js/web.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="209" column="122" selection-start-line="209" selection-start-column="115" selection-end-line="209" selection-end-column="122" />
-              <folding />
+            <state vertical-scroll-proportion="0.5132948">
+              <caret line="209" column="116" selection-start-line="209" selection-start-column="116" selection-end-line="209" selection-end-column="116" />
+              <folding>
+                <marker date="1512006739100" expanded="true" signature="1593:1713" placeholder="..." />
+                <marker date="1512006739100" expanded="true" signature="1728:1836" placeholder="..." />
+                <marker date="1512006739100" expanded="true" signature="1871:2008" placeholder="..." />
+                <marker date="1512006739100" expanded="true" signature="2055:2126" placeholder="..." />
+                <marker date="1512006739100" expanded="true" signature="2144:2220" placeholder="..." />
+                <marker date="1512006739100" expanded="true" signature="2255:2372" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,18 +59,18 @@
       <file leaf-file-name="appota.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-49.857143">
+            <state vertical-scroll-proportion="-0.74285716">
               <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="payment.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.030197445">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state vertical-scroll-proportion="-10.885715">
+              <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -72,7 +79,7 @@
       <file leaf-file-name="myjhpay.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.057142">
+            <state vertical-scroll-proportion="0.0">
               <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
               <folding />
             </state>
@@ -108,10 +115,10 @@
         <option value="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" />
         <option value="$PROJECT_DIR$/project/tpl/admin/admin/login.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/admin.php" />
-        <option value="$PROJECT_DIR$/project/static/js/web.min.js" />
-        <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" />
         <option value="$PROJECT_DIR$/project/appotapay/payment.php" />
+        <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
+        <option value="$PROJECT_DIR$/project/static/js/web.min.js" />
       </list>
     </option>
   </component>
@@ -313,8 +320,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,7 +383,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3611111" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -595,9 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="212" column="41" selection-start-line="212" selection-start-column="41" selection-end-line="212" selection-end-column="41" />
-          <folding>
-            <marker date="1511768146124" expanded="true" signature="5558:5565" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,40 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="515" column="45" selection-start-line="515" selection-start-column="45" selection-end-line="515" selection-end-column="45" />
-          <folding>
-            <marker date="1488939308000" expanded="true" signature="6526:6584" placeholder="INSERT INTO ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="14180:14237" placeholder="SELECT TOP 1... $" />
-            <marker date="1488939308000" expanded="true" signature="15647:15834" placeholder="SELECT ${$ch... ROW_NUMBER" />
-            <marker date="1488939308000" expanded="true" signature="15671:15752" placeholder="select ROW_N... " />
-            <marker date="1488939308000" expanded="true" signature="15948:16122" placeholder="SELECT ${$ch... ROW_NUMBER" />
-            <marker date="1488939308000" expanded="true" signature="15972:16053" placeholder="select ROW_N... " />
-            <marker date="1488939308000" expanded="true" signature="16324:16394" placeholder="SELECT TOP $... " />
-            <marker date="1488939308000" expanded="true" signature="16485:16551" placeholder="SELECT ${$ch... $" />
-            <marker date="1488939308000" expanded="true" signature="17075:17106" placeholder="INSERT INTO ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="17727:17757" placeholder="DELETE FROM " />
-            <marker date="1488939308000" expanded="true" signature="18435:18498" placeholder="UPDATE `${{$... " />
-            <marker date="1488939308000" expanded="true" signature="19304:19352" placeholder="SELECT count... " />
-            <marker date="1488939308000" expanded="true" signature="23934:24013" placeholder="SELECT ${$ch... ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="24477:24545" placeholder="SELECT ${$ch... ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="24931:24962" placeholder="INSERT INTO ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="25523:25569" placeholder="DELETE FROM " />
-            <marker date="1488939308000" expanded="true" signature="26164:26227" placeholder="UPDATE `${{$... " />
-            <marker date="1488939308000" expanded="true" signature="26977:27055" placeholder="SELECT count... " />
-            <marker date="1488939308000" expanded="true" signature="31618:31697" placeholder="SELECT ${$ch... ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="32106:32174" placeholder="SELECT ${$ch... ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="32486:32517" placeholder="INSERT INTO ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="33058:33104" placeholder="DELETE FROM " />
-            <marker date="1488939308000" expanded="true" signature="33646:33709" placeholder="UPDATE `${{$... " />
-            <marker date="1488939308000" expanded="true" signature="34411:34489" placeholder="SELECT count... " />
-            <marker date="1488939308000" expanded="true" signature="36248:36290" placeholder="CREATE TABLE... Language" />
-            <marker date="1488939308000" expanded="true" signature="37304:37323" placeholder="DROP TABLE L... " />
-            <marker date="1488939308000" expanded="true" signature="38813:38892" placeholder="SELECT ${$ch... ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="39281:39349" placeholder="SELECT ${$ch... ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="39747:39793" placeholder="DELETE FROM " />
-            <marker date="1488939308000" expanded="true" signature="40354:40417" placeholder="UPDATE `${{$... " />
-            <marker date="1488939308000" expanded="true" signature="40926:40957" placeholder="INSERT INTO ${{$this-&gt;table}}" />
-            <marker date="1488939308000" expanded="true" signature="41511:41589" placeholder="SELECT count... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="94" column="30" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,57 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <marker date="1511944169953" expanded="true" signature="15594:15741" placeholder="..." />
-            <marker date="1511944169953" expanded="true" signature="16830:18624" placeholder="..." />
-            <marker date="1511944169953" expanded="true" signature="16860:18597" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="16940:18263" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944169953" expanded="true" signature="17344:18037" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="17433:17725" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="17729:17975" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="18068:18233" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="18346:18464" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="19809:20723" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="19854:20155" placeholder="{&quot;allowFileManager&quot;: false...}" />
-            <marker date="1511944169953" expanded="true" signature="20221:20723" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="20286:20723" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="20343:20723" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="20401:20723" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="20535:20723" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="20595:20723" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="22779:23225" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="22850:23225" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944169953" expanded="true" signature="23131:23225" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="25610:27409" placeholder="..." />
-            <marker date="1511944169953" expanded="true" signature="25640:27382" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="25721:27046" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944169953" expanded="true" signature="26126:26820" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="26215:26508" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="26512:26758" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="26851:27016" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="27130:27249" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="28085:28096" placeholder="..." />
-            <marker date="1511944169953" expanded="true" signature="28206:28218" placeholder="..." />
-            <marker date="1511944169953" expanded="true" signature="30365:31115" placeholder="..." />
-            <marker date="1511944169953" expanded="true" signature="30457:31084" placeholder="{...}" />
-            <marker date="1511944169953" expanded="true" signature="30521:31080" placeholder="{&quot;resizeType&quot;: 1...}" />
-            <marker date="1511944169953" expanded="false" signature="31167:31202" placeholder="..." />
-            <marker date="1511944169953" expanded="true" signature="71918:71961" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="72229:72272" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="73013:73056" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="73862:73905" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="74529:74572" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="75227:75270" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="76107:76150" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="76973:77016" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="77666:77709" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="78389:78432" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="79240:79283" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="80075:80118" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="80725:80768" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="81390:81433" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944169953" expanded="true" signature="82072:82115" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,57 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="165" column="53" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="53" />
-          <folding>
-            <marker date="1511944486870" expanded="true" signature="15594:15741" placeholder="..." />
-            <marker date="1511944486870" expanded="true" signature="16830:18624" placeholder="..." />
-            <marker date="1511944486870" expanded="true" signature="16860:18597" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="16940:18263" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944486870" expanded="true" signature="17344:18037" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="17433:17725" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="17729:17975" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="18068:18233" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="18346:18464" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="19809:20723" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="19854:20155" placeholder="{&quot;allowFileManager&quot;: false...}" />
-            <marker date="1511944486870" expanded="true" signature="20221:20723" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="20286:20723" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="20343:20723" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="20401:20723" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="20535:20723" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="20595:20723" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="22779:23225" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="22850:23225" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944486870" expanded="true" signature="23131:23225" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="25610:27409" placeholder="..." />
-            <marker date="1511944486870" expanded="true" signature="25640:27382" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="25721:27046" placeholder="{&quot;fieldName&quot;: 'all'...}" />
-            <marker date="1511944486870" expanded="true" signature="26126:26820" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="26215:26508" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="26512:26758" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="26851:27016" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="27130:27249" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="28085:28096" placeholder="..." />
-            <marker date="1511944486870" expanded="true" signature="28206:28218" placeholder="..." />
-            <marker date="1511944486870" expanded="true" signature="30365:31115" placeholder="..." />
-            <marker date="1511944486870" expanded="true" signature="30457:31084" placeholder="{...}" />
-            <marker date="1511944486870" expanded="true" signature="30521:31080" placeholder="{&quot;resizeType&quot;: 1...}" />
-            <marker date="1511944486870" expanded="false" signature="31167:31202" placeholder="..." />
-            <marker date="1511944486870" expanded="true" signature="71918:71961" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="72229:72272" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="73013:73056" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="73862:73905" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="74529:74572" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="75227:75270" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="76107:76150" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="76973:77016" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="77666:77709" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="78389:78432" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="79240:79283" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="80075:80118" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="80725:80768" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="81390:81433" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-            <marker date="1511944486870" expanded="true" signature="82072:82115" placeholder="select sum(n... ${{$D-&gt;biao()}}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.314285">
           <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.971429">
           <caret line="109" column="7" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.030197445">
           <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.030197445">
           <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20554273">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,27 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.6">
           <caret line="76" column="22" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.984615">
-          <caret line="305" column="45" selection-start-line="305" selection-start-column="37" selection-end-line="305" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1511949170661" expanded="true" signature="25729:25762" placeholder="..." />
-            <marker date="1511949170661" expanded="true" signature="26345:26352" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/static/js/web.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="209" column="122" selection-start-line="209" selection-start-column="115" selection-end-line="209" selection-end-column="122" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -918,31 +759,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.057142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-49.857143">
-          <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/appotapay/payment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.030197445">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state vertical-scroll-proportion="-10.885715">
+          <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/appotapay/appota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.74285716">
+          <caret line="73" column="71" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="60.553844">
+          <caret line="295" column="66" selection-start-line="295" selection-start-column="65" selection-end-line="295" selection-end-column="66" />
+          <folding>
+            <marker date="1512006474400" expanded="true" signature="25729:25762" placeholder="..." />
+            <marker date="1512006474400" expanded="true" signature="26345:26352" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/static/js/web.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5132948">
+          <caret line="209" column="116" selection-start-line="209" selection-start-column="116" selection-end-line="209" selection-end-column="116" />
+          <folding>
+            <marker date="1512006739100" expanded="true" signature="1593:1713" placeholder="..." />
+            <marker date="1512006739100" expanded="true" signature="1728:1836" placeholder="..." />
+            <marker date="1512006739100" expanded="true" signature="1871:2008" placeholder="..." />
+            <marker date="1512006739100" expanded="true" signature="2055:2126" placeholder="..." />
+            <marker date="1512006739100" expanded="true" signature="2144:2220" placeholder="..." />
+            <marker date="1512006739100" expanded="true" signature="2255:2372" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

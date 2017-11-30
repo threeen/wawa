@@ -13,7 +13,7 @@
   'zhifubaoopen' => '',
   'openid' => '',
   'openidd' => '',
-  'jine' => '93900.00',
+  'jine' => '67500.00',
   'jifen' => '0.00',
   'huobi' => '0.00',
   'off' => '1',
