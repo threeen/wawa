@@ -23,7 +23,7 @@ class AppotaPay
     {
         // build api url
         // --/sandbox
-        $api_url = $this->API_URL.$this->VERSION.'/services/card_charging?api_key='.$this->API_KEY.'&lang='.$this->LANG;
+        $api_url = $this->API_URL.$this->VERSION.'/sandbox/services/card_charging?api_key='.$this->API_KEY.'&lang='.$this->LANG;
         // build params
         $params = array(
             'developer_trans_id' => $developer_trans_id,
