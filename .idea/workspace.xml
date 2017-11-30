@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eeb99f20-667e-4459-b4b1-e62bc281f2b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/login.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tpl/home/shop/index.php" afterPath="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
     </list>
     <ignored path="wawa_pro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,24 +25,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="22.153847">
-              <caret line="165" column="56" selection-start-line="165" selection-start-column="56" selection-end-line="165" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.7807229">
+              <caret line="747" column="13" selection-start-line="747" selection-start-column="13" selection-end-line="747" selection-end-column="13" />
               <folding>
-                <marker date="1512006474400" expanded="true" signature="25729:25762" placeholder="..." />
-                <marker date="1512006474400" expanded="true" signature="26345:26352" placeholder="..." />
+                <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#1;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#2;n#html#0;n#!!top" expanded="false" />
+                <marker date="1512011578454" expanded="true" signature="23171:23204" placeholder="..." />
+                <marker date="1512011578454" expanded="true" signature="26209:26216" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5744186">
-              <caret line="190" column="35" selection-start-line="190" selection-start-column="35" selection-end-line="190" selection-end-column="35" />
+            <state vertical-scroll-proportion="-15.6">
+              <caret line="192" column="55" selection-start-line="192" selection-start-column="55" selection-end-line="192" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -85,12 +88,12 @@
         <option value="$PROJECT_DIR$/project/beifen/ong/plus/funciton.php" />
         <option value="$PROJECT_DIR$/project/tpl/admin/admin/login.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/admin.php" />
-        <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
         <option value="$PROJECT_DIR$/project/static/js/web.min.js" />
         <option value="$PROJECT_DIR$/project/appotapay/appota.php" />
         <option value="$PROJECT_DIR$/project/appotapay/payment.php" />
         <option value="$PROJECT_DIR$/project/ong/moudl/pay/myjhpay.php" />
         <option value="$PROJECT_DIR$/project/tpl/home/shop/login.php" />
+        <option value="$PROJECT_DIR$/project/tpl/home/shop/index.php" />
       </list>
     </option>
   </component>
@@ -807,17 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="22.153847">
-          <caret line="165" column="56" selection-start-line="165" selection-start-column="56" selection-end-line="165" selection-end-column="56" />
-          <folding>
-            <marker date="1512006474400" expanded="true" signature="25729:25762" placeholder="..." />
-            <marker date="1512006474400" expanded="true" signature="26345:26352" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/ong/moudl/json/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3604652">
@@ -844,9 +836,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5744186">
-          <caret line="190" column="35" selection-start-line="190" selection-start-column="35" selection-end-line="190" selection-end-column="35" />
+        <state vertical-scroll-proportion="-15.6">
+          <caret line="192" column="55" selection-start-line="192" selection-start-column="55" selection-end-line="192" selection-end-column="55" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tpl/home/shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7807229">
+          <caret line="747" column="13" selection-start-line="747" selection-start-column="13" selection-end-line="747" selection-end-column="13" />
+          <folding>
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#html#0;n#!!top" expanded="false" />
+            <marker date="1512011578454" expanded="true" signature="23171:23204" placeholder="..." />
+            <marker date="1512011578454" expanded="true" signature="26209:26216" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
