@@ -38,6 +38,122 @@ $shezhi = $Mem1 -> g('shezhi') ;
 
 </head>
 <body class="">
+    <script type="text/javascript">
+        var dolls =
+        {
+            <?php
+        if (is_array($fenleis)) {
+            $uu = 0;
+            $nn = count($fenleis);
+            foreach($fenleis as  $k => $v){
+
+                /*查询下面的产品*/
+                $order = '  ';
+                $cps = $D ->setbiao('center')->order(  )->where( array(
+                    'cid' => $v['id'],
+                    ) )-> select();
+
+                $uu = $uu+1;
+
+
+        ?>
+
+            "<?php echo $v['name'] ?>": [
+
+            <?php
+
+            if (is_array($cps)) {
+                $yy = 0;
+                $nn1 = count($cps);
+
+                foreach($cps as  $k1 => $v1){
+
+                    $yy = $yy+1;
+
+            ?>
+
+
+        {"index": <?php echo $v1['id'] ?>, "price": <?php echo $v1['jiage'] ?>}
+
+     <?php
+            if ($nn1!=$yy) {
+
+        ?>   ,
+
+<?php
+    }
+?>
+      <?php
+          }
+        }
+      ?>
+
+
+
+          ]
+          <?php
+              if ($uu!=$nn) {
+          ?>
+          ,
+          <?php
+              }
+          ?>
+
+          <?php
+              }
+          }
+          ?>
+
+
+
+
+
+         };
+
+        var closePlay = false;
+    </script>
+
+
+
+    <script id="doll-items-tmpl" type="text/x-jquery-tmpl">
+  {{each(i,doll) dolls}}
+  <li class="doll-item" data-index="${doll.index}" data-theme="{{if doll.price > 0}}2{{else}}1{{/if}}">
+    <div class="doll-img doll-img__monkey">
+      <div class="doll-img_move">
+        <i class="doll-img_face doll-img_face__1"></i>
+        <div class="doll-img_name {{if doll.price > 0}}doll-img_name__packet{{else}}doll-img_name__goods{{/if}}">
+          <span class="doll-img_txt">{{if doll.price > 0}}${doll.price}{{/if}}</span>
+        </div>
+        <i class="doll-img_body"></i>
+      </div>
+      <i class="doll-img_shadow"></i>
+      <i class="doll-img_smoke"></i>
+      <i class="doll-img_tag"></i>
+    </div>
+  </li>
+  {{/each}}
+
+
+    </script>
+    <script id="small-doll-items-tmpl" type="text/x-jquery-tmpl">
+  {{each(i,doll) dolls}}
+  <li class="doll-item">
+    <div class="doll-img doll-img__monkey">
+      <div class="doll-img_move">
+        <i class="doll-img_face doll-img_face__2"></i>
+        <div class="doll-img_name {{if doll.price > 0}}doll-img_name__packet{{else}}doll-img_name__goods{{/if}}">
+          <span class="doll-img_txt">{{if doll.price > 0}}${doll.price}{{/if}}</span>
+        </div>
+        <i class="doll-img_body"></i>
+      </div>
+      <i class="doll-img_shadow"></i>
+    </div>
+  </li>
+  {{/each}}
+
+
+    </script>
+
     <div class="doll-index ">
         <div class="doll-index-bd level__medium level-dolls5">
             <div id="ex_doll_header">
@@ -634,116 +750,4 @@ jQuery(function(){
 });
 </script>
 </body>
-<script type="text/javascript">
-    var dolls =
-    {
-        <?php
-        if (is_array($fenleis)) {
-        $uu = 0;
-        $nn = count($fenleis);
-        foreach($fenleis as  $k => $v){
-
-        /*查询下面的产品*/
-        $order = '  ';
-        $cps = $D ->setbiao('center')->order(  )->where( array(
-            'cid' => $v['id'],
-        ) )-> select();
-
-        $uu = $uu+1;
-
-
-        ?>
-
-        "<?php echo $v['name'] ?>": [
-
-            <?php
-
-            if (is_array($cps)) {
-            $yy = 0;
-            $nn1 = count($cps);
-
-            foreach($cps as  $k1 => $v1){
-
-            $yy = $yy+1;
-
-            ?>
-
-
-            {"index": <?php echo $v1['id'] ?>, "price": <?php echo $v1['jiage'] ?>}
-
-            <?php
-            if ($nn1!=$yy) {
-
-            ?>   ,
-
-            <?php
-            }
-            ?>
-            <?php
-            }
-            }
-            ?>
-
-
-
-        ]
-        <?php
-        if ($uu!=$nn) {
-        ?>
-        ,
-        <?php
-        }
-        ?>
-
-        <?php
-        }
-        }
-        ?>
-
-
-
-
-
-    };
-
-    var closePlay = false;
-</script>
-<script id="doll-items-tmpl" type="text/x-jquery-tmpl">
-  {{each(i,doll) dolls}}
-  <li class="doll-item" data-index="${doll.index}" data-theme="{{if doll.price > 0}}2{{else}}1{{/if}}">
-    <div class="doll-img doll-img__monkey">
-      <div class="doll-img_move">
-        <i class="doll-img_face doll-img_face__1"></i>
-        <div class="doll-img_name {{if doll.price > 0}}doll-img_name__packet{{else}}doll-img_name__goods{{/if}}">
-          <span class="doll-img_txt">{{if doll.price > 0}}${doll.price}{{/if}}</span>
-        </div>
-        <i class="doll-img_body"></i>
-      </div>
-      <i class="doll-img_shadow"></i>
-      <i class="doll-img_smoke"></i>
-      <i class="doll-img_tag"></i>
-    </div>
-  </li>
-  {{/each}}
-
-
-    </script>
-<script id="small-doll-items-tmpl" type="text/x-jquery-tmpl">
-  {{each(i,doll) dolls}}
-  <li class="doll-item">
-    <div class="doll-img doll-img__monkey">
-      <div class="doll-img_move">
-        <i class="doll-img_face doll-img_face__2"></i>
-        <div class="doll-img_name {{if doll.price > 0}}doll-img_name__packet{{else}}doll-img_name__goods{{/if}}">
-          <span class="doll-img_txt">{{if doll.price > 0}}${doll.price}{{/if}}</span>
-        </div>
-        <i class="doll-img_body"></i>
-      </div>
-      <i class="doll-img_shadow"></i>
-    </div>
-  </li>
-  {{/each}}
-
-
-    </script>
 </html>
